@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.google.com	TRUE	/insights/consumersurveys	FALSE	1999999999	PAIDCONTENT	uwinp3nkyzmf5cjyb6xq
+.google.com	TRUE	/ads/preferences	FALSE	1999999999	pm_sess	ACi0TChuIo74XLwIDBfD-7jwpLhbn_RwPua3u-lldInPFLh2X_X_ZLNG5GYt-MWBXCIMwHY6H8Pl
+.google.com	TRUE	/settings/ads	FALSE	1999999999	pm_sess	ACi0TChuIo74XLwIDBfD-7jwpLhbn_RwPua3u-lldInPFLh2X_X_ZLNG5GYt-MWBXCIMwHY6H8Pl
+.google.com	TRUE	/adsense/	FALSE	1999999999	AdSenseLocaleSession	en_US
+.google.com	TRUE	/adsense/	FALSE	1999999999	AdSenseLocale	en_US
+.google.com	TRUE	/finance	FALSE	1999999999	SC	RV=:ED=us
+.google.com	TRUE	/adsense	FALSE	1999999999	adsenseReferralSourceId	YXNv
+.google.com	TRUE	/adsense	FALSE	1999999999	adsenseReferralSubId	d3ctd3ctb3JnLW5vQWNjb3VudA
+.google.com	TRUE	/adsense	FALSE	1999999999	adsenseReferralUrl	d3d3Lmdvb2dsZS5jb20vaW50bC9lbi9hZHNlbnNlL3N0YXJ0Lw
+.google.com	TRUE	/adsense	FALSE	1999999999	adsenseReferralUrlQuery	c3ViaWQ9V1ctRU4tRVQtYml6c29sLWlucGFnZSZ1dG1fc291cmNlPUludGVybmFsJnV0bV9tZWRpdW09RVQmdXRtX2NhbXBhaWduPWJ1c2luZXNzLXNvbC1pbi1wYWdlLXR4dA
+www.google.com	TRUE	/doodles	FALSE	1999999999	hl	en
+.google.com	TRUE	/	FALSE	1999999999	NID	106=MUxPexLwIYa4OwPa4h5zg9SaF7XF8Qk6rQVH1CPwUmckXvQmVBOzNYkO-MhpsYmY9RtwNs9KkXFY9U1CzJB6wAj5yQthyBXZXcepFHdsRM1WJQzI2kWiyuO_kVQ0hmD9efdSiDXWrGtcEBXtNSRFOffaSK4
+www.google.com	TRUE	/	FALSE	1999999999	S_adsense3-ui	4zwOhX8aXhWoEi8uFzJHpcis8wBNEcfD
+www.google.com	TRUE	/	FALSE	1999999999	Priority	LOW
+.google.com	TRUE	/	FALSE	1999999999	S	antipasti_server_prod=RlddbN4cKZwtA0-lcgr8nRIzNQUVqhyk:billing-ui-v3=gKF6nNzJ_rb8RwJrFm9Lc9teQdxTNRFG:billing-ui-v3-efe=gKF6nNzJ_rb8RwJrFm9Lc9teQdxTNRFG
+payments.google.com	TRUE	/	FALSE	1999999999	Priority	LOW
+
